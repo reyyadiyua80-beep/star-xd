@@ -1,4 +1,4 @@
-rey//=====💫 sᴛᴀʀ  xᴅ🔥====
+rey bot//=====💫 sᴛᴀʀ  xᴅ🔥====
 
 module.exports = {
   BOT_NAME: 'sᴛᴀʀ xᴅ', // ur bot name
